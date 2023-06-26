@@ -1,2 +1,5 @@
+com/example/holacodespaces/controller/UserController.class
+com/example/holacodespaces/model/User.class
+com/example/holacodespaces/repository/UserRepository.class
 com/example/holacodespaces/controller/Controller.class
 com/example/holacodespaces/HolaCodespacesApplication.class
