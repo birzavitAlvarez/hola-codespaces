@@ -1,0 +1,20 @@
+GET https://practica-codespaces-s6.onrender.com/
+
+###
+
+POST https://practica-codespaces-s6.onrender.com/api/usuario/add
+Content-Type: application/x-www-form-urlencoded
+
+name=Salen
+&email=Gato@gmail.com
+
+###
+
+GET https://practica-codespaces-s6.onrender.com/api/usuario/all
+
+###
+
+
+GET https://practica-codespaces-s6.onrender.com/api/usuario/all/2
+
+###
